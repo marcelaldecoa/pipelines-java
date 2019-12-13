@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/marcelaldecoa/DevOpsLabs/_apis/build/status/marcelaldecoa.pipelines-java?branchName=master)](https://dev.azure.com/marcelaldecoa/DevOpsLabs/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
